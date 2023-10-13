@@ -9,18 +9,6 @@ public class polymorphism {
         System.out.println(c2);
         System.out.println(c3);
 
-
-
-
-            
-            
-
-            
-
-
-
-           
-    
         }
     }
 
