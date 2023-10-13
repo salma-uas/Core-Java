@@ -1,13 +1,5 @@
 public class polymorphism {
-
-    
-    
     //method overriding under polymorphisom
-
-    
-    
-    
-
 
         public static void main (String []args){
             P_class c1=new P_class();
@@ -18,18 +10,6 @@ public class polymorphism {
         System.out.println(c2);
         System.out.println(c3);
 
-
-
-
-            
-            
-
-            
-
-
-
-           
-    
         }
     }
 
