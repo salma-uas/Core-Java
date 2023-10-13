@@ -1,0 +1,1 @@
+/*track of trending articles and their associated views and ratings. */
