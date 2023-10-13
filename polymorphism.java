@@ -1,5 +1,6 @@
 public class polymorphism {
     //method Overriding under Polymorphisom
+
         public static void main (String []args){
             P_class c1=new P_class();
             P_class c2=new P_class2();
